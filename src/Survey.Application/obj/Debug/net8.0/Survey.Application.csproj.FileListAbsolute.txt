@@ -1,0 +1,16 @@
+/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Application/bin/Debug/net8.0/Survey.Application.deps.json
+/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Application/bin/Debug/net8.0/Survey.Application.dll
+/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Application/bin/Debug/net8.0/Survey.Application.pdb
+/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Application/bin/Debug/net8.0/Survey.Domain.dll
+/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Application/bin/Debug/net8.0/Survey.Domain.pdb
+/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Application/obj/Debug/net8.0/Survey.Application.csproj.AssemblyReference.cache
+/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Application/obj/Debug/net8.0/Survey.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Application/obj/Debug/net8.0/Survey.Application.AssemblyInfoInputs.cache
+/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Application/obj/Debug/net8.0/Survey.Application.AssemblyInfo.cs
+/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Application/obj/Debug/net8.0/Survey.Application.csproj.CoreCompileInputs.cache
+/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Application/obj/Debug/net8.0/Survey.Application.sourcelink.json
+/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Application/obj/Debug/net8.0/Survey.A.9820C681.Up2Date
+/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Application/obj/Debug/net8.0/Survey.Application.dll
+/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Application/obj/Debug/net8.0/refint/Survey.Application.dll
+/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Application/obj/Debug/net8.0/Survey.Application.pdb
+/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Application/obj/Debug/net8.0/ref/Survey.Application.dll

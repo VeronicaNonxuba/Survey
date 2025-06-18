@@ -1,0 +1,12 @@
+/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Domain/bin/Debug/net8.0/Survey.Domain.deps.json
+/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Domain/bin/Debug/net8.0/Survey.Domain.dll
+/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Domain/bin/Debug/net8.0/Survey.Domain.pdb
+/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Domain/obj/Debug/net8.0/Survey.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Domain/obj/Debug/net8.0/Survey.Domain.AssemblyInfoInputs.cache
+/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Domain/obj/Debug/net8.0/Survey.Domain.AssemblyInfo.cs
+/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Domain/obj/Debug/net8.0/Survey.Domain.csproj.CoreCompileInputs.cache
+/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Domain/obj/Debug/net8.0/Survey.Domain.sourcelink.json
+/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Domain/obj/Debug/net8.0/Survey.Domain.dll
+/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Domain/obj/Debug/net8.0/refint/Survey.Domain.dll
+/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Domain/obj/Debug/net8.0/Survey.Domain.pdb
+/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Domain/obj/Debug/net8.0/ref/Survey.Domain.dll

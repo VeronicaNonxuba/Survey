@@ -1,0 +1,225 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/veronicanonxuba/Projects/SurveyAPI/tests/Survey.Application.Tests/Survey.Application.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Application/Survey.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Application/Survey.Application.csproj",
+        "projectName": "Survey.Application",
+        "projectPath": "/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Application/Survey.Application.csproj",
+        "packagesPath": "/Users/veronicanonxuba/.nuget/packages/",
+        "outputPath": "/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/veronicanonxuba/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/alphaglobal/Revelation/_packaging/AlphaCoreServices/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Domain/Survey.Domain.csproj": {
+                "projectPath": "/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Domain/Survey.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Domain/Survey.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Domain/Survey.Domain.csproj",
+        "projectName": "Survey.Domain",
+        "projectPath": "/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Domain/Survey.Domain.csproj",
+        "packagesPath": "/Users/veronicanonxuba/.nuget/packages/",
+        "outputPath": "/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/veronicanonxuba/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/alphaglobal/Revelation/_packaging/AlphaCoreServices/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/veronicanonxuba/Projects/SurveyAPI/tests/Survey.Application.Tests/Survey.Application.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/veronicanonxuba/Projects/SurveyAPI/tests/Survey.Application.Tests/Survey.Application.Tests.csproj",
+        "projectName": "Survey.Application.Tests",
+        "projectPath": "/Users/veronicanonxuba/Projects/SurveyAPI/tests/Survey.Application.Tests/Survey.Application.Tests.csproj",
+        "packagesPath": "/Users/veronicanonxuba/.nuget/packages/",
+        "outputPath": "/Users/veronicanonxuba/Projects/SurveyAPI/tests/Survey.Application.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/veronicanonxuba/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/alphaglobal/Revelation/_packaging/AlphaCoreServices/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Application/Survey.Application.csproj": {
+                "projectPath": "/Users/veronicanonxuba/Projects/SurveyAPI/src/Survey.Application/Survey.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
